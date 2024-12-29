@@ -5,3 +5,4 @@ __About me:__
 - Portugal Based
 - Interested in data analysis, genetic algorithms and time series forecasting projects
 - Major nerd
+- Mainly python projects
